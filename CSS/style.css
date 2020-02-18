@@ -93,7 +93,7 @@ body, html {
     justify-content: space-between;
     align-items: center;
     margin-top: 110px;
-    width: 40%;  
+    width: 45%;  
     margin: 80px auto;
     -webkit-animation: fadein 2.5s; /* Safari, Chrome and Opera > 12.1 */
        -moz-animation: fadein 2.5s; /* Firefox < 16 */
